@@ -19,15 +19,19 @@ function WaitlistLandingPage() {
         <div className="text-content">
           <h1>A better productivity app</h1>
           <p>
-            Yinsight is designed to help people learn and is built on 2 core principles:
+            Yinsight is a platform aimed at having you achieve your potential. How? It’s simple.
           </p>
           <ul>
-            <li>Completely manual (for your own good)</li>
-            <li>
-              An incredible user experience (so that you don't mind it being so
-              manual)
-            </li>
+            <li>You gain insights on how you learn currently</li>
+            <li>Build your best self to become your best learner</li>
           </ul>
+          <p>
+            This system focuses on a holistic approach for how you learn best to make it better. All of this based on your mindset, your schedule, and your natural ability to focus and recall.
+          </p>
+          <br />
+          <p>
+            By signing up for our beta release, you will get access to this system in its early stages. We can’t wait to see you succeed. 🙌🙌
+          </p>
           <button className="waitlist-button" onClick={handleJoinWaitlistClick}>
             Join the Waitlist
           </button>
